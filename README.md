@@ -14,7 +14,7 @@ The project will utilize machine learning models to forecast trends in areas lik
 
 ### III.)	Research Problems:
 Here are some research problem questions for the Cambodia’s Economic Analytic and Research project:
- - <font color = red>Taxation Analysis</font>: How does the current taxation structure affect income distribution and economic growth in Cambodia? What is the impact of different tax types (e.g., income, corporate, VAT) on business growth and individual purchasing power?
+ - **Taxation Analysis**: How does the current taxation structure affect income distribution and economic growth in Cambodia? What is the impact of different tax types (e.g., income, corporate, VAT) on business growth and individual purchasing power?
  
  - Import and Export Analysis:  How do trade imbalances impact employment and GDP growth across different sectors in Cambodia? What are the primary challenges and opportunities in Cambodia’s export and import sectors that affect economic resilience?
  
