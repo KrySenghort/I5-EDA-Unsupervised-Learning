@@ -27,4 +27,5 @@ Here are some research problem questions for the Cambodia’s Economic Analytic 
  - **Inflation Rate Analysis** : How does inflation affect poverty levels and the economic well-being of different income groups in Cambodia? What are the underlying causes of inflation, and how do they impact essential commodity prices and consumer purchasing power?
  
  - **Integrated Economic Policy Evaluation Analysis** : How effective are Cambodia’s economic policies in promoting sustainable growth and resilience against global economic fluctuations? What policy interventions could help strengthen Cambodia's economic resilience to mitigate the effects of inflation, unemployment, and trade imbalances?
+ - 
 These questions are structured to encourage data-driven investigation into core economic issues, with the potential to inform policy recommendations and strategic planning for Cambodia's economic development.
