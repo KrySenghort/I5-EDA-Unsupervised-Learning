@@ -14,17 +14,17 @@ The project will utilize machine learning models to forecast trends in areas lik
 
 ### III.)	Research Problems:
 Here are some research problem questions for the Cambodia’s Economic Analytic and Research project:
- - **Taxation Analysis**: How does the current taxation structure affect income distribution and economic growth in Cambodia? What is the impact of different tax types (e.g., income, corporate, VAT) on business growth and individual purchasing power?
+ - **Taxation Analysis** : How does the current taxation structure affect income distribution and economic growth in Cambodia? What is the impact of different tax types (e.g., income, corporate, VAT) on business growth and individual purchasing power?
  
- - Import and Export Analysis:  How do trade imbalances impact employment and GDP growth across different sectors in Cambodia? What are the primary challenges and opportunities in Cambodia’s export and import sectors that affect economic resilience?
+ - **Import and Export Analysis** :  How do trade imbalances impact employment and GDP growth across different sectors in Cambodia? What are the primary challenges and opportunities in Cambodia’s export and import sectors that affect economic resilience?
  
- - Exchange Rate Analysis: What is the relationship between exchange rate fluctuations and inflation in Cambodia? How do changes in the exchange rate impact Cambodia’s trade balance and cost of imported goods?
+ - **Exchange Rate Analysis: What is the relationship between exchange rate fluctuations and inflation in Cambodia? How do changes in the exchange rate impact Cambodia’s trade balance and cost of imported goods?
  
- - Unemployment and Employment Analysis:  How do sectoral employment patterns correlate with GDP growth, and what policies could enhance employment in high-impact sectors? What are the causes of regional disparities in employment, and how do they affect economic growth in Cambodia?
+ - **Unemployment and Employment Analysis** :  How do sectoral employment patterns correlate with GDP growth, and what policies could enhance employment in high-impact sectors? What are the causes of regional disparities in employment, and how do they affect economic growth in Cambodia?
  
- - GDP Analysis: What are the primary drivers of GDP growth in Cambodia, and how do these vary across regions? How can GDP growth trends help forecast economic stability and guide resource allocation to reduce regional inequalities?
+ - **GDP Analysis** : What are the primary drivers of GDP growth in Cambodia, and how do these vary across regions? How can GDP growth trends help forecast economic stability and guide resource allocation to reduce regional inequalities?
  
- - Inflation Rate Analysis: How does inflation affect poverty levels and the economic well-being of different income groups in Cambodia? What are the underlying causes of inflation, and how do they impact essential commodity prices and consumer purchasing power?
+ - **Inflation Rate Analysis** : How does inflation affect poverty levels and the economic well-being of different income groups in Cambodia? What are the underlying causes of inflation, and how do they impact essential commodity prices and consumer purchasing power?
  
- - Integrated Economic Policy Evaluation Analysis: How effective are Cambodia’s economic policies in promoting sustainable growth and resilience against global economic fluctuations? What policy interventions could help strengthen Cambodia's economic resilience to mitigate the effects of inflation, unemployment, and trade imbalances?
+ - **Integrated Economic Policy Evaluation Analysis **: How effective are Cambodia’s economic policies in promoting sustainable growth and resilience against global economic fluctuations? What policy interventions could help strengthen Cambodia's economic resilience to mitigate the effects of inflation, unemployment, and trade imbalances?
 These questions are structured to encourage data-driven investigation into core economic issues, with the potential to inform policy recommendations and strategic planning for Cambodia's economic development.
