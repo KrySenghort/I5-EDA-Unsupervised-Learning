@@ -1,4 +1,4 @@
-# I5-EDA-Unsupervised-Learning
+# I5-EDA-Unsupervised-Learning Project
 ### I.)	Project Background:
 This Cambodia’s Economic Analytic and Research project is designed to provide an in-depth analysis of economic data to uncover trends, patterns, and insights that can drive strategic decision-making and policy development. By leveraging powerful tools and technologies like Python, Power BI, and R, the project aims to apply sophisticated data science methods to transform raw data into meaningful insights for economic development.
 Python will serve as the primary tool for data processing, analysis, and machine learning model implementation, allowing for efficient handling and analysis of large datasets. R will complement Python by providing robust statistical analysis capabilities, which are essential for understanding the underlying economic indicators and validating results. Power BI will then be used to create interactive dashboards, transforming complex analytical findings into easy-to-understand visuals for policymakers, stakeholders, and other users, thus facilitating data-driven decision-making.
@@ -15,10 +15,16 @@ The project will utilize machine learning models to forecast trends in areas lik
 ### III.)	Research Problems:
 Here are some research problem questions for the Cambodia’s Economic Analytic and Research project:
  - Taxation Analysis: How does the current taxation structure affect income distribution and economic growth in Cambodia? What is the impact of different tax types (e.g., income, corporate, VAT) on business growth and individual purchasing power?
+ 
  - Import and Export Analysis:  How do trade imbalances impact employment and GDP growth across different sectors in Cambodia? What are the primary challenges and opportunities in Cambodia’s export and import sectors that affect economic resilience?
+ 
  - Exchange Rate Analysis: What is the relationship between exchange rate fluctuations and inflation in Cambodia? How do changes in the exchange rate impact Cambodia’s trade balance and cost of imported goods?
+ 
  - Unemployment and Employment Analysis:  How do sectoral employment patterns correlate with GDP growth, and what policies could enhance employment in high-impact sectors? What are the causes of regional disparities in employment, and how do they affect economic growth in Cambodia?
+ 
  - GDP Analysis: What are the primary drivers of GDP growth in Cambodia, and how do these vary across regions? How can GDP growth trends help forecast economic stability and guide resource allocation to reduce regional inequalities?
+ 
  - Inflation Rate Analysis: How does inflation affect poverty levels and the economic well-being of different income groups in Cambodia? What are the underlying causes of inflation, and how do they impact essential commodity prices and consumer purchasing power?
+ 
  - Integrated Economic Policy Evaluation Analysis: How effective are Cambodia’s economic policies in promoting sustainable growth and resilience against global economic fluctuations? What policy interventions could help strengthen Cambodia's economic resilience to mitigate the effects of inflation, unemployment, and trade imbalances?
 These questions are structured to encourage data-driven investigation into core economic issues, with the potential to inform policy recommendations and strategic planning for Cambodia's economic development.
