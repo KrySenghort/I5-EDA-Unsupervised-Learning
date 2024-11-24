@@ -18,7 +18,7 @@ Here are some research problem questions for the Cambodia’s Economic Analytic 
  
  - **Import and Export Analysis** :  How do trade imbalances impact employment and GDP growth across different sectors in Cambodia? What are the primary challenges and opportunities in Cambodia’s export and import sectors that affect economic resilience?
  
- - **Exchange Rate Analysis: What is the relationship between exchange rate fluctuations and inflation in Cambodia? How do changes in the exchange rate impact Cambodia’s trade balance and cost of imported goods?
+ - **Exchange Rate Analysis** : What is the relationship between exchange rate fluctuations and inflation in Cambodia? How do changes in the exchange rate impact Cambodia’s trade balance and cost of imported goods?
  
  - **Unemployment and Employment Analysis** :  How do sectoral employment patterns correlate with GDP growth, and what policies could enhance employment in high-impact sectors? What are the causes of regional disparities in employment, and how do they affect economic growth in Cambodia?
  
